@@ -1,18 +1,12 @@
 # Tab-finder
 
-This app allows a guitar learner to search by chords that they know how to play, and get back a list of songs that they can play with just the chords they know.
+This app allows a guitar learner to search songs to play based on the chords they know how to play so far.
 
 This project was created and published by me and [Mariana](https://github.com/maridoh13) as part of our learnings at Lighthouse Labs.
 
-## Project setup
+## Visit the app
 
-The database used to run this app is accessed from this repository: https://github.com/shuchitama/tab-finder-api.
-
-To run the app, use the following commands:
-
-- To run the API server, type `npm start` from inside the tab-finder-api directory
-- Install dependencies with `npm install`
-- Run the development server with `npm run serve`
+http://tab-finder.herokuapp.com/
 
 ## Screenshots
 
